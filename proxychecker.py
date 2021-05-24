@@ -1,5 +1,4 @@
 from aiohttp_socks import ProxyConnector, ProxyType
-from python_socks._errors import ProxyError
 
 import aiohttp, asyncio
 loop = asyncio.get_event_loop()
