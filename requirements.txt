@@ -1,0 +1,4 @@
+aiohttp-socks
+aiohttp
+asyncio
+python-socks[asyncio]
